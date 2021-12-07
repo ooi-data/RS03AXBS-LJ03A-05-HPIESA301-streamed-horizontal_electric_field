@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS03AXBS-LJ03A-05-HPIESA301-streamed-horizontal_electric_field
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Horizontal Electric Field Data Products<br>
+Instrument Group Code: HPIES<br>
